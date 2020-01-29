@@ -305,6 +305,14 @@ section.cta .cta-content h2 {
   color: white;
 }
 
+section.cta .cta-content h3 {
+  font-size: 15px;
+  max-width: 650px;
+  margin-top: 0;
+  margin-bottom: 12px;
+  color: white;
+}
+
 @media (min-width: 768px) {
   section.cta .cta-content h2 {
     font-size: 80px;
